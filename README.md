@@ -1,6 +1,8 @@
 Offer list
 ===
 
+![CI](https://github.com/ElenaKars/ra_3.2_listing/actions/workflows/web.yml/badge.svg)
+
 You need to display a list of Etsy.com catalog offers using the React library. After the data is loaded and rendered, the list should look like this:
 ![List of offers](./assets/preview.png)
 
